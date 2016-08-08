@@ -1,0 +1,7 @@
+# Factral
+int fact=0;
+int num=integer.parseInt(args[0]);
+for(int i=1;i<num;i++){
+fact=fact*1;
+raturn fact;
+}
